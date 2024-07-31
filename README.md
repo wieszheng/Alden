@@ -1,4 +1,4 @@
-# Alden
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Alden&width=1000&height=400)](https://github.com/wieszheng/Alden)
 
 ### Hi there 👋
 
@@ -68,3 +68,7 @@ docker-compose -f docker-compose.yml up -d
   </picture>
 </a>
 </p>
+
+<div align="center">
+✨ 🍰 ✨
+</div>
